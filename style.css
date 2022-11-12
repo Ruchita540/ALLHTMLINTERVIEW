@@ -1,0 +1,22 @@
+.h1{
+    background-color: yellow;
+}
+#h2{
+    color: red;
+}
+.navbar{
+    height: 70px;
+    width: 100%;
+    border: 2px solid black;
+     /* display: flex;  */
+    /* justify-content: end;
+    align-items: flex-end; */
+    text-align: right;
+    
+}
+.nav{
+    display: flex;
+    list-style: none;
+    padding: 34px 23px;
+    margin: 10px;
+}
